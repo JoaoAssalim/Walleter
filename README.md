@@ -1,3 +1,4 @@
 # Wallet_Counter
-[<img src="https://github.com/JoaoAssalim/Wallet_Counter/blob/main/wallet.mp4<VIDEO ID>/maxresdefault.jpg" width="50%">]
+https://youtu.be/whRVll-dVOs
+[![Watch the video]](https://youtu.be/whRVll-dVOs)
 
