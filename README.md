@@ -1,10 +1,8 @@
-# Wallet_Counter
+# Walleter
 
 ## _Monitoring Your Wallet_
 
-
-This program can help you to control the money you are saving.
-
+Walleter is a program to help you to control the money you are saving.
 
 ## Features
 
