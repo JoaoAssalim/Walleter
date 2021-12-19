@@ -5,7 +5,7 @@ print(Fore.BLUE+'To type a Float value use "." not ","!\n')
 acount_option = input('"D" to delet money / "A" to add money / "R" to remove money: ').upper()
 
 if acount_option == 'A':
-    safed_money = input(Fore.CYAN+'How much do you earned today: ')
+    safed_money = input(Fore.CYAN+'How much did you earn today: ')
     print()
     safed_money = float(safed_money) if safed_money.isdigit() and float(safed_money) > 0 else print(Fore.RED+'ENTER A VALUE GREATER THAN 0\n')
 
